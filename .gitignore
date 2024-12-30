@@ -1,0 +1,22 @@
+# Node.js dependencies
+/node_modules/
+
+# npm logs
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
+
+# Package distribution files
+package-lock.json
